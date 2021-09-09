@@ -90,7 +90,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #777;
+		color: #767676;
 		font-family: "Nunito Sans", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -497,7 +497,7 @@
 				}
 
 				ul.icons li .icon:before {
-					font-size: 1.5em;
+					font-size: 1.2em;
 				}
 
 		ul.actions {
@@ -815,7 +815,7 @@
 			font-size: 0.9em;
 			font-weight: bold;
 			list-style: none;
-			margin: 1em 0 0 0;
+			margin: 0.5em 0 0 0;
 			padding: 0;
 		}
 
@@ -932,8 +932,8 @@
 		
 		/* List */
 
-			ul.icons li .icon {
-				font-size: 1.25em;
+			ul.icons li .icon:before {
+				font-size: 1em;
 			}
 
 		/* Header */
@@ -966,7 +966,7 @@
 			#footer {
 				position: relative;
 				text-align: center;
-				margin-top: -8em;
+				margin-top: -7.5em;
 				padding: 0px;
 				width: 100%;
 			}
